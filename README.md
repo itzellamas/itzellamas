@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I amm Izel Lamas
+ 
+ - I’m currently working on ...
 
 <!--
 **itzellamas/itzellamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
