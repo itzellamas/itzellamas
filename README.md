@@ -1,4 +1,4 @@
-## Hi there 👋, I amm Izel Lamas
+## Hi there 👋, I am Itzel Lamas
  
  - I’m currently working on ...
 
